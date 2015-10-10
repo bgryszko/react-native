@@ -61,7 +61,7 @@ var flattenStyle = require('flattenStyle');
  */
 class StyleSheet {
   static flatten: typeof flattenStyle;
-
+  
 
   static create(obj: {[key: string]: any}): {[key: string]: number} {
     var result = {};

@@ -1,3 +1,7 @@
+# Changed
+- MapView pins as images
+- ReactART exposed
+
 # React Native [![Build Status](https://travis-ci.org/facebook/react-native.svg?branch=master)](https://travis-ci.org/facebook/react-native)  [![npm version](https://badge.fury.io/js/react-native.svg)](http://badge.fury.io/js/react-native)
 
 React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and
